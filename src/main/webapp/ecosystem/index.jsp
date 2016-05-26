@@ -101,6 +101,10 @@
             Selenium consulting, training and coaching in Russian
         </li>
         <li>
+            <a rel="nofollow" href="http://itelearn.com/course/selenium-training-video-tutorials/">iTeLearn.com</a> -
+            Selenium testing consulting, training in Online
+        </li>
+        <li>
             <a rel="nofollow" href="http://pluralsight.com/training/courses/TableOfContents?courseName=selenium">Pluralsight</a> -
             Beginner training course on using Selenium and creating an automated test framework.
         </li>
